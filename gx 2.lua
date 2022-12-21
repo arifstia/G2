@@ -1,5 +1,5 @@
 -- local response = gg.makeRequest("http://192.168.1.108:9999/json.lua")
-local response = gg.makeRequest("https://raw.githubusercontent.com/gxosty/gx-gg/main/json.lua")
+local response = gg.makeRequest("https://raw.githubusercontent.com/arifstia/G1/main/gx%201.lua")
 local json = load(response.content)()
 -- local json = require("gx.json")
 
