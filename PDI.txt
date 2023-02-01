@@ -348,7 +348,7 @@ wipeid1={--光翼文本
 
 Magic_id = {-- magic id
 
-	{'character status',
+	{'🙎character status',
 		{
 	    { 'cat curse', 847145578 },
         { 'Rejuvenation Magic', 1692428656 },
@@ -365,7 +365,7 @@ Magic_id = {-- magic id
         { 'Flying Blessing', -1362469224 }
 		}
 	},
-	{'Back decoration magic',
+	{'🪑Back decoration magic',
 		{
 	    {"Love Fireworks",1403584133},
         {"Red velvet umbrella",1621987452},
@@ -404,7 +404,7 @@ Magic_id = {-- magic id
         { 'Tea table for three', 1598845731 }
 		}
 	},
-	{'cloak magic',
+	{'👗️cloak magic',
 		{
         {'Aurora orange cloak', 939730131 },
         {'Yeti Cloak', -940505450 },
@@ -445,7 +445,7 @@ Magic_id = {-- magic id
         { 'Halloween cloak', 769892976 }
 		}
 	},
-	{'hair magic',
+	{'🦱hair magic',
 	    {
         {'Aurora hairstyle', 239584271 },
         { 'Snowman head', 419537417 },
@@ -470,7 +470,7 @@ Magic_id = {-- magic id
         {'Halloween long hair', 116679863 }
 		}
 	},
-	{'mask magic',
+	{'🤡mask magic',
 		{
         { 'Snowman Mask', 858950093 },
         { 'Cat mask', 3393326356 },
@@ -489,7 +489,7 @@ Magic_id = {-- magic id
         { 'White Fox Mask', 784922793 }
 		}
 	},
-	{'headwear magic',
+	{'👑headwear magic',
 		{
         { "Xingyue hair ornament", 2305213622 },
         { "Rainbow Hat", 3773476314 },
@@ -520,7 +520,7 @@ Magic_id = {-- magic id
         { 'Halloween corner', 1123843208 }
 		}
 	},
-	{'pants magic',
+	{'👖pants magic',
 		{
         {"New Pants",483128979},
         {'Aurora pants', -1134828593 },
@@ -532,7 +532,7 @@ Magic_id = {-- magic id
         { 'Halloween pants', 969946279 }
 		}
 	},
-	{'Tailing magic',
+	{'🌠Tail magic',
 		{
         { 'Rainbow trailing', 147016038 },
         { 'Rainbow trailing', 1301293614 },
@@ -550,7 +550,7 @@ Magic_id = {-- magic id
         { 'pink tail', 1665476229 }
 		}
 	},
-    	{'Sound Magic',
+    	{'📢Sound Magic',
 		{
         { 'crab calling', 875460884 },
         { 'Travel love call', -1881863468 },
@@ -561,7 +561,7 @@ Magic_id = {-- magic id
         { 'Jellyfish calling', -957441587 }
 		}
 	},
-	{'Teleport Magic',
+	{'🔅Teleport Magic',
 		{
         { 'Transfer Holy Island Magic', 598305233 },
         { 'Teleport Morning Island Palace', 103122035 },
@@ -575,7 +575,7 @@ Magic_id = {-- magic id
         { 'Transfer tomb soil cg', -1172691679 }
 		}
 	},
-	{'Friendship Magic',
+	{'🤝Friendship Magic',
 		{
         { 'Friendship back', 1405645877 },
         { 'Friendship Bear Hug', 1677246236 },
@@ -584,7 +584,7 @@ Magic_id = {-- magic id
         { 'Two people go', 953841005 }
 		}
 	},
-	{'special magic',
+	{'⚡special magic',
 		{
         { 'Lucky Fireworks', 4010083509 },
         { 'Sun and Moon Magic', 539651423 },
@@ -594,7 +594,7 @@ Magic_id = {-- magic id
         { 'Turtle appears', 1212897503 }
 		}
 	},
-	{'10.4 Unknown magic',
+	{'❓10.4 Unknown magic',
 		{
         { 'Unknown magic 1', -305102667 },
         { 'Unknown Magic 2', -25012636 },
@@ -613,7 +613,7 @@ Magic_id = {-- magic id
         {'Unknown Magic 15', 1621987452}
 		}
 	},
-    {'Unclassified magic',
+    {'💫Unclassified magic',
 		{
         { 'Unknown Magic 1', 1067647386 },
         { 'Rain resistance', 2831023607 },
@@ -667,11 +667,8 @@ Magic_id = {-- magic id
         {'Christmas bucket (old)', 1762827508 },
         { 'Snowball', 1440439821 },
         { 'Snowflake Headdress', 1372838509 },
-        { 'clear magic', nil },
-        { 'Spirit of Light', 'Spirit of Light' },
-        {'Cycle yelling', 'Continuous yelling' },
-        { 'Magic Enhancement', 'Magic Enhancement' }
-		}
+        { 'clear magic', nil }
+	}
 	},
   }
 
